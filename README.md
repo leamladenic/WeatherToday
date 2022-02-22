@@ -13,5 +13,6 @@ Every weather type has its own color layout and corresponding image.
 ![image](https://user-images.githubusercontent.com/33040005/155136457-ae983f1b-eb45-4146-8ead-58d7829c6d82.png)
 ![image](https://user-images.githubusercontent.com/33040005/155136560-0c89d24c-4df2-4ee7-99e8-59aaf0242fdd.png)
 ![image](https://user-images.githubusercontent.com/33040005/155138763-5c35fc44-3138-4bc9-a431-771505208133.png)
+![image](https://user-images.githubusercontent.com/33040005/155139038-89fb1a28-91be-41cd-b470-a129e1daffff.png)
 
 
